@@ -1,3 +1,4 @@
-111
-version
+统计学实验：
+lab_1:初识怕python
+
 
